@@ -269,11 +269,16 @@
     width: 70%;
     margin: 0 auto; }
     .gallery img {
-      width: 100%;
+      width: 80%;
       height: auto;
-      display: inline-block; }
+      margin: 0 auto;
+      display: block; }
+    .gallery .portret {
+      width: 80%;
+      height: auto;
+      margin: 0 auto;
+      display: block; }
     .gallery div {
-      display: inline-block;
       padding: 20px 10px; }
   .bio {
     width: 70%;
@@ -308,7 +313,7 @@
     font: 100 12px 'Lato', sans-serif;
     color: #b3b3b3;
     vertical-align: top;
-    margin: 10px; }
+    margin: 30px 0 50px 90px; }
   div {
     padding: 20px 20px 20px 20px; }
   a {

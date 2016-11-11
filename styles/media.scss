@@ -66,12 +66,18 @@
     margin: 0 auto;
 
     img {
-      width: 100%;
+      width: 80%;
       height: auto;
-      display: inline-block;
+      margin:0 auto;
+      display:block;
+    }
+    .portret {
+      width: 80%;
+      height: auto;
+      margin:0 auto;
+      display:block;
     }
     div {
-      display: inline-block;
       padding: 20px 10px
     }
   }
@@ -117,8 +123,9 @@
     font: 100 12px 'Lato', sans-serif;
     color: #b3b3b3;
     vertical-align: top;
-    margin: 10px;
+    margin: 30px 0 50px 90px;
   }
+
   div {
     padding: 20px 20px 20px 20px;
   }
